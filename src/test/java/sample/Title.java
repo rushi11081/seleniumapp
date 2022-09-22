@@ -64,6 +64,8 @@ public class Title
 		Assert.assertEquals(title, test);
 		
 		System.out.println(driver.getCurrentUrl());
+		
+		System.out.println(driver.getTitle());
 	}
 	
 	

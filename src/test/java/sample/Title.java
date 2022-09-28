@@ -66,6 +66,8 @@ public class Title
 		System.out.println(driver.getCurrentUrl());
 		
 		System.out.println(driver.getTitle());
+		
+		System.out.println("addded new line");
 	}
 	
 	

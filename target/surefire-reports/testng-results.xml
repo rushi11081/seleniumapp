@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-26T11:44:08 IST" name="Suite" finished-at="2022-09-26T11:44:35 IST" duration-ms="27091">
+  <suite started-at="2022-09-28T12:02:24 IST" name="Suite" finished-at="2022-09-28T12:02:32 IST" duration-ms="7455">
     <groups>
     </groups>
-    <test started-at="2022-09-26T11:44:08 IST" name="Test" finished-at="2022-09-26T11:44:35 IST" duration-ms="27091">
+    <test started-at="2022-09-28T12:02:24 IST" name="Test" finished-at="2022-09-28T12:02:32 IST" duration-ms="7455">
       <class name="sample.Title">
-        <test-method is-config="true" signature="setup()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-26T11:44:08 IST" name="setup" finished-at="2022-09-26T11:44:33 IST" duration-ms="24109" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-28T12:02:24 IST" name="setup" finished-at="2022-09-28T12:02:29 IST" duration-ms="4908" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkurl()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-26T11:44:33 IST" name="checkurl" finished-at="2022-09-26T11:44:33 IST" duration-ms="105" status="PASS">
+        <test-method signature="checkurl()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-28T12:02:29 IST" name="checkurl" finished-at="2022-09-28T12:02:29 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkurl -->
-        <test-method signature="titlecheck()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-26T11:44:33 IST" name="titlecheck" finished-at="2022-09-26T11:44:33 IST" duration-ms="271" status="PASS">
+        <test-method signature="titlecheck()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-28T12:02:29 IST" name="titlecheck" finished-at="2022-09-28T12:02:29 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titlecheck -->
-        <test-method is-config="true" signature="end()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-26T11:44:33 IST" name="end" finished-at="2022-09-26T11:44:35 IST" duration-ms="2552" status="PASS">
+        <test-method is-config="true" signature="end()[pri:0, instance:sample.Title@15ff3e9e]" started-at="2022-09-28T12:02:29 IST" name="end" finished-at="2022-09-28T12:02:32 IST" duration-ms="2447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
